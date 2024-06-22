@@ -1,1 +1,1 @@
-# qa_auto_exercise
+# API & UI auto test for www.automationexercise.com
