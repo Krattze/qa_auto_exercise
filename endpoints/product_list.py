@@ -1,5 +1,5 @@
 from endpoints.base_endpoint import Endpoint
-from utils.urls import Urls
+from test_data.urls import Urls
 import requests
 
 
