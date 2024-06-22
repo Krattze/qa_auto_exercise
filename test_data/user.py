@@ -6,6 +6,7 @@ user = {
     'firstname': "test",
     'lastname': "test",
     'address1': "test",
+    'country': "test",
     'zipcode': "test",
     'state': "test",
     'city': "test",

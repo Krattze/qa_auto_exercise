@@ -9,7 +9,7 @@ from endpoints.verify_login import VerifyLoginEndpoint
 
 
 @pytest.fixture()
-def brand_list_endpoint():
+def brands_list_endpoint():
     return BrandsListEndpoint()
 
 
